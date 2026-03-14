@@ -1,6 +1,6 @@
 # Laravel + Filament + Inertia React Starter
 
-Laravel 12 starter with Filament CMS (`/admin`), Inertia + React frontend, and daisyUI.
+Laravel 12 starter with Filament as CMS (`/admin`), Inertia + React frontend, and daisyUI components. 
 
 ## Requirements
 
@@ -26,7 +26,7 @@ php artisan key:generate
 
 3. Configure database.
 
-For SQLite:
+For SQLite, create the sqlite file (empty file) inside the database directory.
 
 ```bash
 touch database/database.sqlite
